@@ -1,5 +1,5 @@
 # UAb - Universidade Aberta
-# Unidade Curricular Segurança em Redes e Computadores (21181).
+# Unidade Curricular Segurança em Redes e Computadores.
 
  Implementação de um algoritmo de cifra simétrica, outro de cifra assimétrica.
  
