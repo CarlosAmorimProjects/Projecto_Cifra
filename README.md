@@ -1,14 +1,12 @@
 # UAb - Universidade Aberta
 # Unidade Curricular Segurança em Redes e Computadores.
 
-## JAVA
-
-Implementação de um algoritmo de cifra simétrica, outro de cifra assimétrica.
+Implementação de um algoritmo de cifra simétrica, outro de cifra assimétrica em Java.
  
 Permite a introdução de um texto não cifrado por digitação do mesmo ou ligação a um ficheiro de texto, retorna
 o texto cifrado. Com a introdução do texto cifrado retorna o mesmo decifrado.
  
-Implementation of a symmetric (AES) and an assymetric (RSA) cypher algorithm.
+Implementation of a symmetric (AES) and an assymetric (RSA) cypher algorithm in Java.
 
 Allows the introduction of text (raw data) by typing the text or connection to an external file with text, and it returns the data cyphered.
 
